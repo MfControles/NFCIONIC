@@ -2,8 +2,8 @@
 PHONEGAP NFC FOR CI24 V1.0.3
 
 ```
-$ ionic cordova plugin add https://github.com/MfControles/NFCIONIC.git
-$ npm install --save https://github.com/MfControles/NFC.git
+$ ionic cordova plugin add https://github.com/MfControles/NFC.git
+$ npm install --save https://github.com/MfControles/NFCIONIC.git
 ```
 
 ## Supported platforms
