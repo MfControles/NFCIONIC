@@ -1,26 +1,29 @@
 {
-  "_from": "git+https://github.com/MfControles/NFCIONIC.git",
-  "_id": "@ionic-native/nfc@4.20.0",
+  "_from": "@ionic-native/nfc",
+  "_id": "@ionic-native/nfc@4.3.0",
   "_inBundle": false,
-  "_integrity": "",
+  "_integrity": "sha512-n8orZ/tQYe6oq4yVrcn6tSu85LOsGIQW+C7GT5vtjFFM4Tux6DajMKWPUDrJD0Pq8Cnx66ynt8kNIDw+312Bqg==",
   "_location": "/@ionic-native/nfc",
   "_phantomChildren": {},
   "_requested": {
-    "type": "git",
-    "raw": "https://github.com/MfControles/NFCIONIC.git",
-    "rawSpec": "https://github.com/MfControles/NFCIONIC.git",
-    "saveSpec": "git+https://github.com/MfControles/NFCIONIC.git",
-    "fetchSpec": "https://github.com/MfControles/NFCIONIC.git",
-    "gitCommittish": null
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native/nfc",
+    "name": "@ionic-native/nfc",
+    "escapedName": "@ionic-native%2fnfc",
+    "scope": "@ionic-native",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/MfControles/NFCIONIC.git#e81140563141711710231f5dd1207fdce02fb918",
-  "_shasum": "5bd762f14a15ca7a33f35a6d374d7ce31ef6b052",
-  "_spec": "https://github.com/MfControles/NFCIONIC.git",
-  "_where": "C:\\Desarrollo\\Ion\\hola",
+  "_resolved": "https://registry.npmjs.org/@ionic-native/nfc/-/nfc-4.3.0.tgz",
+  "_shasum": "3838ef393b89c1fad946b70476f33db44fd9650b",
+  "_spec": "@ionic-native/nfc",
+  "_where": "C:\\Proyectos A\\VSOnline\\CheckInTableApp",
   "author": {
     "name": "ionic"
   },
@@ -35,14 +38,14 @@
   "module": "index.js",
   "name": "@ionic-native/nfc",
   "peerDependencies": {
-    "@ionic-native/core": "^4.11.0",
+    "@ionic-native/core": "^4.2.0",
     "@angular/core": "*",
-    "rxjs": "^5.5.11"
+    "rxjs": "^5.0.1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ionic-team/ionic-native.git"
   },
   "typings": "index.d.ts",
-  "version": "4.20.0"
+  "version": "4.3.0"
 }
