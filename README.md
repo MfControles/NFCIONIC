@@ -1,4 +1,5 @@
-# NFC PLUGIN FOR CI24
+# NFC PLUGIN FOR CI24 V4.20.0
+PHONEGAP NFC FOR CI24 V1.0.3
 
 ```
 $ ionic cordova plugin add https://github.com/MfControles/NFCIONIC.git
